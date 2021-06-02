@@ -1,0 +1,5 @@
+Thiagol	 323244325	 M	 54	 Laser	 1/1/2201	 22:11	 180.00	 sim	
+Bruno	 233221123	 M	 22	 Limpeza	 33/11/1232	 22:33	 50.00	 sim	
+Laura	 147258159	 F	 22	 Pelling	 15/6/2021	 12:55	 68.00	 sim	
+Hermina	 123456147	 F	 33	 Massagem	 12/6/2021	 17:22	 200.00	 sim
+Thiago	 159753456	 M	 29	 Laser	 2/6/2021	 11:30	 180.00	 sim

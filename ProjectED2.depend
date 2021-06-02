@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1622484340 source:c:\users\bruno well\music\projetoed2\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<windows.h>
+	<locale.h>
+	<conio.h>
+
+1622394062 source:c:\users\bruno well\music\projetoed2\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+	<conio.h>
+
+1622408349 c:\users\bruno well\music\projetoed2\projected2\clinestet.h
+
+1622380509 c:\users\bruno well\music\projetoed2\projected2\validacoes.h
+
+1622380226 source:c:\users\bruno well\music\projetoed2\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1620439679 source:c:\users\bruno well\music\projetoed2\projected2\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1618540192 c:\users\bruno well\music\projetoed2\projected2\projected2\validacoes.h
+
+1620773278 source:c:\users\bruno well\music\projetoed2\projected2\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+
+1620771229 c:\users\bruno well\music\projetoed2\projected2\projected2\clinestet.h
+
+1620772529 source:c:\users\bruno well\music\projetoed2\projected2\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+
+1620680706 source:c:\users\dimonna\desktop\faculdade\terceiro semestre\estrutura de dados ii\projected2\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+
+1620680702 c:\users\dimonna\desktop\faculdade\terceiro semestre\estrutura de dados ii\projected2\projected2\clinestet.h
+
+1618540192 c:\users\dimonna\desktop\faculdade\terceiro semestre\estrutura de dados ii\projected2\projected2\validacoes.h
+
+1620439679 source:c:\users\dimonna\desktop\faculdade\terceiro semestre\estrutura de dados ii\projected2\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1620680702 source:c:\users\dimonna\desktop\faculdade\terceiro semestre\estrutura de dados ii\projected2\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+
+1622484202 source:c:\users\dimonna\desktop\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+	<conio.h>
+
+1622408349 c:\users\dimonna\desktop\projected2\clinestet.h
+
+1622380509 c:\users\dimonna\desktop\projected2\validacoes.h
+
+1622380226 source:c:\users\dimonna\desktop\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1622484340 source:c:\users\dimonna\desktop\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<windows.h>
+	<locale.h>
+	<conio.h>
+
+1621463721 source:c:\users\bruno well\downloads\projected2\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+
+1621313285 c:\users\bruno well\downloads\projected2\projected2\clinestet.h
+
+1618540192 c:\users\bruno well\downloads\projected2\projected2\validacoes.h
+
+1621463831 source:c:\users\bruno well\downloads\projected2\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+
+1620439679 source:c:\users\bruno well\downloads\projected2\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1621465120 source:c:\users\bruno well\downloads\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+
+1621465167 c:\users\bruno well\downloads\projected2\clinestet.h
+
+1618540192 c:\users\bruno well\downloads\projected2\validacoes.h
+
+1621464786 source:c:\users\bruno well\downloads\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+
+1620439679 source:c:\users\bruno well\downloads\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1622380226 source:c:\users\dimonna\downloads\projected2 (6)\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1622380509 c:\users\dimonna\downloads\projected2 (6)\projected2\validacoes.h
+
+1622389157 source:c:\users\dimonna\downloads\projected2 (6)\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<windows.h>
+
+1622386227 c:\users\dimonna\downloads\projected2 (6)\projected2\clinestet.h
+
+1622388220 source:c:\users\dimonna\downloads\projected2 (6)\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+	<conio.h>
+
+1622406612 source:c:\users\dimonna\downloads\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+	<conio.h>
+
+1622397757 c:\users\dimonna\downloads\projected2\clinestet.h
+
+1622380509 c:\users\dimonna\downloads\projected2\validacoes.h
+
+1622380226 source:c:\users\dimonna\downloads\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
+1622397907 source:c:\users\dimonna\downloads\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<windows.h>
+	<locale.h>
+	<conio.h>
+
+1622484340 source:c:\users\bruno well\downloads\projeto de ed2\projeto de ed2\projected2\clinestet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<windows.h>
+	<locale.h>
+	<conio.h>
+
+1622408349 c:\users\bruno well\downloads\projeto de ed2\projeto de ed2\projected2\clinestet.h
+
+1622380509 c:\users\bruno well\downloads\projeto de ed2\projeto de ed2\projected2\validacoes.h
+
+1622484202 source:c:\users\bruno well\downloads\projeto de ed2\projeto de ed2\projected2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"clinEstet.h"
+	"validacoes.h"
+	<ctype.h>
+	<conio.h>
+
+1622380226 source:c:\users\bruno well\downloads\projeto de ed2\projeto de ed2\projected2\validacoes.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"validacoes.h"
+
